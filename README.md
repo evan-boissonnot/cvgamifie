@@ -3,4 +3,4 @@ Repo parent de l'application de gamification des CVs (centralise le back et le f
 
 ## Centralise deux répos :
 - Front en angular : https://github.com/evan-boissonnot/cvgamifie.front/
-- Back dotner core : https://github.com/evan-boissonnot/cvgamifie.back
+- Back en dotnet core : https://github.com/evan-boissonnot/cvgamifie.back
